@@ -16,7 +16,7 @@ cd mips-projects
 ```
 
 ## Projects
-Project 1: Factorial
+### Project 1: Factorial
 Calculate the factorial of a given number using iterative or recursive methods.
 
 ### Project 2: Palindrome
