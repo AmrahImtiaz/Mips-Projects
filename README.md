@@ -15,7 +15,7 @@ git clone https://github.com/yourusername/mips-projects.git
 cd mips-projects
 ```
 
-### Projects
+## Projects
 Project 1: Factorial
 Calculate the factorial of a given number using iterative or recursive methods.
 
